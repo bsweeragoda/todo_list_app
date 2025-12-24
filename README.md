@@ -52,7 +52,6 @@ cd todo_list_app
 2️⃣ (Optional) Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate      # Windows
-# source venv/bin/activate # macOS / Linux
 
 3️⃣ Install Dependencies
 pip install -r requirements.txt
