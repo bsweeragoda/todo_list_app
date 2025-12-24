@@ -45,8 +45,9 @@ tkcalendar==1.6.1
 ⚠️ tkinter is included with Python and should not be installed via pip.
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/todo_list_app.git
+git clone https://github.com/bsweeragoda/todo_list_app.git
 cd todo_list_app
 
 2️⃣ (Optional) Create Virtual Environment
