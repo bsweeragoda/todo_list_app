@@ -1,0 +1,30 @@
+[
+    {
+        "name": "complete the todo list project",
+        "priority": "High",
+        "due_date": "2025-12-25",
+        "category": "Personal",
+        "status": "Completed"
+    },
+    {
+        "name": "write the database teory exam",
+        "priority": "Low",
+        "due_date": "2026-01-01",
+        "category": "Study",
+        "status": "Pending"
+    },
+    {
+        "name": "writing a research thesis",
+        "priority": "High",
+        "due_date": "2026-01-05",
+        "category": "Personal",
+        "status": "Pending"
+    },
+    {
+        "name": "Finish the viva",
+        "priority": "High",
+        "due_date": "2026-01-06",
+        "category": "Study",
+        "status": "Pending"
+    }
+]
